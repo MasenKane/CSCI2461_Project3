@@ -7,4 +7,4 @@ nzp register
 pc register
 
 
-ALU: USE THE newALU, it is the most recent update
+ALU: Use currentALU, it is the most recent update
