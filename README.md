@@ -5,7 +5,7 @@ USE GWLC - IT IS MOST CURRENT AND HAS EVERYTHING
 INCLUDING MASEN'S REGISTERS
 
 
-
+```
 Control Flow - What write signals do we need:
 
 Once we find what select lines we absolutely need, we can 
@@ -54,3 +54,4 @@ Can’t be load enabled when pc is incrementing
 Maybe don’t need (combine with other selector or just don’t need it):
 MDR - Load selector
 IR - load selector
+```
