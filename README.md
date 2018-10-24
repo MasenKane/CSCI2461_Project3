@@ -1,13 +1,9 @@
 # CSCI2461_Project3
 READ ME!
 ```
-USE GWLC - IT IS MOST CURRENT AND HAS EVERYTHING 
-INCLUDING THE REGISTERS
-(currentALU.cdl and newALU.cdl ironically are not 
-current or new (neither is ALU.cdl), I just don't 
-know how to delete files off the git browser and 
-I'm tired)
-
+USE GWLC - It has the ALU, Control Unit, and Register 
+bank all combiled, but not yet connected. That's the 
+next step.
 
 CHECK OUT - CPUnotes.pdf for a finite state diagram, 
 the GWLC ISA, and the beginnings of our ROM implemention 
