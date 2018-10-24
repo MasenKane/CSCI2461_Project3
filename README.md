@@ -3,6 +3,10 @@
 
 USE GWLC - IT IS MOST CURRENT AND HAS EVERYTHING 
 INCLUDING THE REGISTERS
+(currentALU and newALU ironically are not current or new, 
+I just don't know how to delete files off the git browser
+and I'm tired)
+
 
 CHECK OUT - CPUnotes.pdf for a finite state diagram, 
 the GWLC ISA, and the beginnings of our ROM implemention 
