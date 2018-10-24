@@ -1,7 +1,8 @@
 # CSCI2461_Project3
 
 
-ALU: Use currentALU, it is the most recent update
+USE GWLC - IT IS MOST CURRENT AND HAS EVERYTHING 
+INCLUDING MASEN'S REGISTERS
 
 
 
