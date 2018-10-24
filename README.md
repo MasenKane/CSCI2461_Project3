@@ -1,6 +1,6 @@
 # CSCI2461_Project3
 
-
+```
 USE GWLC - IT IS MOST CURRENT AND HAS EVERYTHING 
 INCLUDING THE REGISTERS
 (currentALU and newALU ironically are not current or new, 
@@ -12,7 +12,7 @@ CHECK OUT - CPUnotes.pdf for a finite state diagram,
 the GWLC ISA, and the beginnings of our ROM implemention 
 of the decoder.
 
-```
+
 Control Flow - What write signals do we need:
 
 Once we find what select lines we absolutely need, we can 
