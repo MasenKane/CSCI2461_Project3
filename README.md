@@ -4,6 +4,9 @@
 USE GWLC - IT IS MOST CURRENT AND HAS EVERYTHING 
 INCLUDING MASEN'S REGISTERS
 
+CHECK OUT - CPUnotes.pdf for a finite state diagram, 
+the GWLC ISA, and the beginnings of our ROM implemention 
+of the decoder.
 
 ```
 Control Flow - What write signals do we need:
